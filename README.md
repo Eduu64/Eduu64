@@ -1,8 +1,6 @@
-## STATS
 
-
-<div align="center"> <h2> Mi página de Github </h2> </div>
-	
+<div align="center"> <h2> Mi página de Github </h2> </div>	
+<br></br>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Eduu64&hide_border=true&count_private=true&show_icons=true&theme=tokyonight">
