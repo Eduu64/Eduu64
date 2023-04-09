@@ -1,5 +1,5 @@
-<div align=center>
 ## Eduu64
+<div align=center>
 Edu here!
 
 <br>
@@ -32,5 +32,5 @@ Edu here!
 ### Redes
 <p align="left">
 <a href="https://open.spotify.com/user/edu0440?si=2271a912fe13408a"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" width="300"></a>
-<a href="https://twitter.com/MrEdudi"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="300"></a>
+<a href="https://twitter.com/MrEdudi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="300"></a>
 </p>
