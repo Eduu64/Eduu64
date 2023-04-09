@@ -1,16 +1,36 @@
-### Hi there 👋
+<div align=center>
 
-<!--
-**Eduu64/Eduu64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Edu here!
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</div>
+<br>
+<br>
+
+
+### Lenguajes
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+
+<br>
+
+
+<br>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielsozinho&hide_border=true&count_private=true&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielsozinho&theme=tokyonight&hide_border=true">
+</div>
+<br>
+<br>
+
+
+### Redes
+<p align="left">
+<a href="https://open.spotify.com/user/edu0440?si=2271a912fe13408a"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" width="300"></a>
+<a href="https://twitter.com/MrEdudi"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="300"></a>
+</p>
