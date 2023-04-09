@@ -1,9 +1,4 @@
 ## Eduu64
-<div align=center>
-<br>
-</div>
-<br>
-<br>
 
 ### Lenguajes
 
