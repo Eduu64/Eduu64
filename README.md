@@ -1,7 +1,7 @@
 ## STATS
 
 
-<div align="center">Mi página de Github</div>
+<div align="center"> **Mi página de Github** </div>
 	
 
 <div align="center">
