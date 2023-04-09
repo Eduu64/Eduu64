@@ -1,5 +1,5 @@
 <div align=center>
-
+## Eduu64
 Edu here!
 
 <br>
@@ -22,8 +22,8 @@ Edu here!
 
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielsozinho&hide_border=true&count_private=true&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielsozinho&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Eduu64&hide_border=true&count_private=true&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduu64&theme=tokyonight&hide_border=true">
 </div>
 <br>
 <br>
