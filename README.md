@@ -1,12 +1,4 @@
 
-<div align="center"> <h2> Mi página de Github </h2> </div>	
-<br></br>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Eduu64&hide_border=true&count_private=true&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduu64&theme=tokyonight&hide_border=true">
-</div>
-
 ### Lenguajes
 
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
