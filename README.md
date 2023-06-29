@@ -9,6 +9,5 @@
 
 <p align="left">
 <a href="https://open.spotify.com/user/edu0440?si=2271a912fe13408a"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" width="300"></a>
-<a href="https://twitter.com/MrEdudi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="300"></a>
 <a href="https://discord.gg/zBHWbG52"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="300"></a>
 </p>
